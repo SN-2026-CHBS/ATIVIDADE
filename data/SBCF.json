@@ -1,13 +1,9 @@
 {
-  "updated_at": "2026-06-09T11:53:38.786062+00:00",
+  "updated_at": "2026-06-09T14:28:36.703105+00:00",
   "data_referencia": "2026-06-09",
   "airport_icao": "SBCF",
   "airport_name": "Belo Horizonte / Confins",
-  "airport_info": {
-    "sg_aerodromo_icao": "SBCF",
-    "sg_aerodromo_iata": "CNF",
-    "descricao": "TANCREDO NEVES - CONFINS - MG - BRASIL"
-  },
+  "airport_info": {},
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
   "arrivals": [
