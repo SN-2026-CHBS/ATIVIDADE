@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-25T15:34:17.014082+00:00",
+  "updated_at": "2026-08-25T21:18:58.701983+00:00",
   "data_referencia": "2026-08-25",
   "airport_icao": "SBKP",
   "airport_name": "Campinas / Viracopos",
   "airport_info": {
-    "sg_aerodromo_icao": "SBKP",
-    "sg_aerodromo_iata": "VCP",
-    "descricao": "VIRACOPOS - CAMPINAS - SP - BRASIL"
+    "sg_aerodromo_icao": "SBIL",
+    "sg_aerodromo_iata": "IOS",
+    "descricao": "BAHIA - JORGE AMADO - ILHÉUS - BA - BRASIL"
   },
   "source": "SIROS/ANAC",
   "source_url": "https://sas.anac.gov.br/sas/siros_api/",
